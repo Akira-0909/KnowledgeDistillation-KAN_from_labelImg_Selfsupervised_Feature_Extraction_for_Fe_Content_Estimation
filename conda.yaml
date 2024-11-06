@@ -1,0 +1,18 @@
+name: dinov2
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - python=3.9
+  - omegaconf
+  - torchmetrics=0.10.3
+  - fvcore
+  - iopath
+  - pip
+  - pip:
+      - torch==2.2.1+cu118
+      - torchvision==0.17.1+cu118
+      - git+https://github.com/facebookincubator/submitit
+      - cuml-cu11
+
