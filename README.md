@@ -59,13 +59,7 @@ Accurate quantification of ferrous content in scrap materials is essential for o
 
 ## Contributing
 
-I welcome contributions to enhance DINOv2-KANLI. Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes with clear and concise messages.
-4. Submit a pull request detailing your changes.
-
+I welcome contributions to enhance DINOv2-KANLI. 
 
 
 *Keywords*: self-supervised, DINO, DINOv2, labelImg, Python, KAN, Knowledge Distillation, Kolmogorov-Arnold Networks, Ferrous Content Estimation, Feature Extraction, Ferrous Texture 
